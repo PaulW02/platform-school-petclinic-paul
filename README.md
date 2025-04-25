@@ -20,7 +20,7 @@ cd spring-petclinic
 java -jar target/*.jar
 ```
 
-Testing the trufflehog
+Testing the trivy
 
 You can then access the Petclinic at <http://localhost:8080/>.
 
